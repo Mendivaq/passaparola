@@ -1,0 +1,20 @@
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.csprojAssemblyReference.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Passaparola\obj\Debug\Passaparola.pdb
+G:\12.7.2020 all backups\Projects\Passaparola\bin\Debug\Passaparola.exe.config
+G:\12.7.2020 all backups\Projects\Passaparola\bin\Debug\Passaparola.exe
+G:\12.7.2020 all backups\Projects\Passaparola\bin\Debug\Passaparola.pdb
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.csprojAssemblyReference.cache
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.Form1.resources
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.exe
+G:\12.7.2020 all backups\Projects\Passaparola\obj\Debug\Passaparola.pdb
